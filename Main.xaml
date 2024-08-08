@@ -101,7 +101,7 @@
         </scg:List>
       </uasc:BuildCollection.NextItems>
     </uasc:BuildCollection>
-    <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build collection Cities UK" FirstItem="London" sap:VirtualizedContainerService.HintSize="434,173" sap2010:WorkflowViewState.IdRef="BuildCollection`1_4" Result="[Cities(&quot;UK&quot;)]">
+    <uasc:BuildCollection x:TypeArguments="x:String" Items="{x:Null}" DisplayName="Build collection Cities UK" FirstItem="Londo" sap:VirtualizedContainerService.HintSize="434,173" sap2010:WorkflowViewState.IdRef="BuildCollection`1_4" Result="[Cities(&quot;UK&quot;)]">
       <uasc:BuildCollection.NextItems>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="4">
           <InArgument x:TypeArguments="x:String">Manchester</InArgument>
